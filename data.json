@@ -1,0 +1,307 @@
+{
+    "largest_companies": [
+      {
+        "rank": 1,
+        "name": "Walmart",
+        "industry": "General merchandisers",
+        "revenue": 572754,
+        "revenue_growth": "Increase 2.4%",
+        "employees": 2300000,
+        "headquarters": "Bentonville, Arkansas"
+      },
+      {
+        "rank": 2,
+        "name": "Amazon",
+        "industry": "Retail and Cloud Computing",
+        "revenue": 469822,
+        "revenue_growth": "Increase 21.7%",
+        "employees": 1608000,
+        "headquarters": "Seattle, Washington"
+      },
+      {
+        "rank": 3,
+        "name": "Apple",
+        "industry": "Electronics industry",
+        "revenue": 365817,
+        "revenue_growth": "Increase 33.2%",
+        "employees": 154000,
+        "headquarters": "Cupertino, California"
+      },
+      {
+        "rank": 4,
+        "name": "CVS Health",
+        "industry": "Healthcare",
+        "revenue": 292111,
+        "revenue_growth": "Increase 32.0%",
+        "employees": 258000,
+        "headquarters": "Woonsocket, Rhode Island"
+      },
+      {
+        "rank": 5,
+        "name": "UnitedHealth Group",
+        "industry": "Healthcare",
+        "revenue": 287597,
+        "revenue_growth": "Increase 11.8%",
+        "employees": 350000,
+        "headquarters": "Minnetonka, Minnesota"
+      },
+      {
+        "rank": 6,
+        "name": "Exxon Mobil",
+        "industry": "Petroleum industry",
+        "revenue": 285640,
+        "revenue_growth": "Increase 57.4%",
+        "employees": 63000,
+        "headquarters": "Spring, Texas"
+      },
+      {
+        "rank": 7,
+        "name": "Berkshire Hathaway",
+        "industry": "Conglomerate",
+        "revenue": 276094,
+        "revenue_growth": "Increase 12.5%",
+        "employees": 372000,
+        "headquarters": "Omaha, Nebraska"
+      },
+      {
+        "rank": 8,
+        "name": "Alphabet",
+        "industry": "Technology",
+        "revenue": 257637,
+        "revenue_growth": "Increase 41.2%",
+        "employees": 156000,
+        "headquarters": "Mountain View, California"
+      },
+      {
+        "rank": 9,
+        "name": "McKesson Corporation",
+        "industry": "Health",
+        "revenue": 238228,
+        "revenue_growth": "Increase 3.1%",
+        "employees": 67500,
+        "headquarters": "Irving, Texas"
+      },
+      {
+        "rank": 10,
+        "name": "AmerisourceBergen",
+        "industry": "Pharmaceutical industry",
+        "revenue": 213989,
+        "revenue_growth": "Increase 12.7%",
+        "employees": 40000,
+        "headquarters": "Chesterbrook, Pennsylvania"
+      },
+      {
+        "rank": 11,
+        "name": "Microsoft",
+        "industry": "Technology",
+        "revenue": 198087,
+        "revenue_growth": "Increase 17.5%",
+        "employees": 181000,
+        "headquarters": "Redmond, Washington"
+      },
+      {
+        "rank": 12,
+        "name": "Costco",
+        "industry": "Retail",
+        "revenue": 195929,
+        "revenue_growth": "Increase 17.5%",
+        "employees": 288000,
+        "headquarters": "Issaquah, Washington"
+      },
+      {
+        "rank": 13,
+        "name": "Cigna",
+        "industry": "Health Insurance",
+        "revenue": 174078,
+        "revenue_growth": "Increase 8.5%",
+        "employees": 72963,
+        "headquarters": "Bloomfield, Connecticut"
+      },
+      {
+        "rank": 14,
+        "name": "AT&T",
+        "industry": "Conglomerate",
+        "revenue": 168864,
+        "revenue_growth": "Decrease 1.7%",
+        "employees": 202600,
+        "headquarters": "Dallas, Texas"
+      },
+      {
+        "rank": 15,
+        "name": "Cardinal Health",
+        "industry": "Healthcare",
+        "revenue": 162467,
+        "revenue_growth": "Increase 6.2%",
+        "employees": 46827,
+        "headquarters": "Dublin, Ohio"
+      },
+      {
+        "rank": 16,
+        "name": "Chevron Corporation",
+        "industry": "Petroleum industry",
+        "revenue": 162465,
+        "revenue_growth": "Increase 71.6%",
+        "employees": 42595,
+        "headquarters": "San Ramon, California"
+      },
+      {
+        "rank": 17,
+        "name": "The Home Depot",
+        "industry": "Retail",
+        "revenue": 151157,
+        "revenue_growth": "Increase 14.4%",
+        "employees": 490600,
+        "headquarters": "Atlanta, Georgia"
+      },
+      {
+        "rank": 18,
+        "name": "Walgreens Boots Alliance",
+        "industry": "Pharmaceutical industry",
+        "revenue": 148579,
+        "revenue_growth": "Increase 6.5%",
+        "employees": 258500,
+        "headquarters": "Deerfield, Illinois"
+      },
+      {
+        "rank": 19,
+        "name": "Marathon Petroleum",
+        "industry": "Petroleum industry",
+        "revenue": 141032,
+        "revenue_growth": "Increase 58.5%",
+        "employees": 17700,
+        "headquarters": "Findlay, Ohio"
+      },
+      {
+        "rank": 20,
+        "name": "Elevance Health",
+        "industry": "Healthcare",
+        "revenue": 138639,
+        "revenue_growth": "Increase 13.8%",
+        "employees": 98200,
+        "headquarters": "Indianapolis, Indiana"
+      }
+    ],
+    "most_profitable_companies": [
+      {
+        "rank": 1,
+        "name": "Apple",
+        "industry": "Electronics",
+        "profits": 94680
+      },
+      {
+        "rank": 2,
+        "name": "Berkshire Hathaway",
+        "industry": "Conglomerate",
+        "profits": 89795
+      },
+      {
+        "rank": 3,
+        "name": "Alphabet",
+        "industry": "Technology",
+        "profits": 76033
+      },
+      {
+        "rank": 4,
+        "name": "Microsoft",
+        "industry": "Technology",
+        "profits": 72271
+      },
+      {
+        "rank": 5,
+        "name": "JPMorgan Chase",
+        "industry": "Financials",
+        "profits": 48334
+      },
+      {
+        "rank": 6,
+        "name": "Meta",
+        "industry": "Technology",
+        "profits": 39370
+      },
+      {
+        "rank": 7,
+        "name": "Amazon",
+        "industry": "Retail and Technology",
+        "profits": 33364
+      },
+      {
+        "rank": 8,
+        "name": "Bank of America",
+        "industry": "Financials",
+        "profits": 31978
+      },
+      {
+        "rank": 9,
+        "name": "ExxonMobil",
+        "industry": "Petroleum industry",
+        "profits": 23040
+      },
+      {
+        "rank": 10,
+        "name": "Fannie Mae",
+        "industry": "Financials",
+        "profits": 22176
+      },
+      {
+        "rank": 11,
+        "name": "Verizon",
+        "industry": "Telecommunications",
+        "profits": 22065
+      },
+      {
+        "rank": 12,
+        "name": "Pfizer",
+        "industry": "Pharmaceutical industry",
+        "profits": 21979
+      },
+      {
+        "rank": 13,
+        "name": "Citigroup",
+        "industry": "Financials",
+        "profits": 21952
+      },
+      {
+        "rank": 14,
+        "name": "Goldman Sachs",
+        "industry": "Financials",
+        "profits": 21635
+      },
+      {
+        "rank": 15,
+        "name": "Wells Fargo",
+        "industry": "Financials",
+        "profits": 21548
+      },
+      {
+        "rank": 16,
+        "name": "Johnson & Johnson",
+        "industry": "Pharmaceutical industry",
+        "profits": 20878
+      },
+      {
+        "rank": 17,
+        "name": "AT&T",
+        "industry": "Telecommunications",
+        "profits": 20081
+      },
+      {
+        "rank": 18,
+        "name": "Intel",
+        "industry": "Technology",
+        "profits": 19868
+      },
+      {
+        "rank": 19,
+        "name": "Ford Motor Company",
+        "industry": "Automotive",
+        "profits": 17937
+      },
+      {
+        "rank": 20,
+        "name": "UnitedHealth Group",
+        "industry": "Healthcare",
+        "profits": 17285
+      }
+    ]
+  }
+  
